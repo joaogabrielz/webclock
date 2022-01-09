@@ -1,5 +1,7 @@
 # WebClock
-[//]: <> () 
+[//]: <> (../master/assets/img/printWebclock.png) 
+
+<img align="center" height="250" width="400" src="../master/assets/img/printWebclock.png">
 ## Projeto Relogio Analogico e Digital👈 
 ## Click para ver: <a href='https://joaogabrielz.github.io/webclock/'>Deploy</a> 
 ### # Tecnologias usadas 👈 
